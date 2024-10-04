@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/proto-common/pom.xml" />
         <option value="$PROJECT_DIR$/city-score/pom.xml" />
+        <option value="$PROJECT_DIR$/score-calculator/pom.xml" />
       </list>
     </option>
   </component>
