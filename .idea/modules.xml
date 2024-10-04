@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/microserv_grpc.iml" filepath="$PROJECT_DIR$/microserv_grpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/score-calculator/score-calculator.iml" filepath="$PROJECT_DIR$/score-calculator/score-calculator.iml" />
     </modules>
   </component>
 </project>

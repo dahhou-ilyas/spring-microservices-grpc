@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="proto-common" />
         <module name="score-calculator" />
+        <module name="score-segment" />
         <module name="city-score" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
       <module name="city-score" options="-parameters" />
       <module name="proto-common" options="-parameters" />
       <module name="score-calculator" options="-parameters" />
+      <module name="score-segment" options="-parameters" />
     </option>
   </component>
 </project>
