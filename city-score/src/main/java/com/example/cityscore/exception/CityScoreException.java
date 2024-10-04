@@ -1,7 +1,9 @@
 package com.example.cityscore.exception;
 
 import com.nils.gprc.cityscore.CityScoreErrorCode;
+import lombok.Getter;
 
+@Getter
 public class CityScoreException extends RuntimeException {
 
     private static final long serialVersionUID = -8111656859346000121L;
