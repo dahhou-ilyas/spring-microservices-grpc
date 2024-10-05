@@ -13,7 +13,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @Entity
-public class ncomeBracketMultiplierInfo {
+public class IncomeBracketMultiplierInfo {
     @Id
     private Long id;
 
